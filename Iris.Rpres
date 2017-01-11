@@ -51,4 +51,4 @@ plot(predict(fit, iris[-sub,], type = "class"), iris[-sub, "Species"])
 ```
 
 # Get url: 
-http://127.0.0.1:4458/
+https://gist.github.com/xetaro/edd5cbf2f61ea25d18ffd0df601c523b
