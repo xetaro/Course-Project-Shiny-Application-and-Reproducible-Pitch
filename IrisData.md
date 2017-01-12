@@ -77,9 +77,8 @@ Plot
 
     plot(predict(fit, iris[-sub,], type = "class"), iris[-sub, "Species"])
 
-![](IrisData_files/figure-markdown_strict/unnamed-chunk-6-1.png)
-
-### Url:
+![](https://github.com/xetaro/Course-Project-Shiny-Application-and-Reproducible-Pitch/blob/master/predict_plot.png)
+Url:
 
 code: <https://gist.github.com/xetaro/edd5cbf2f61ea25d18ffd0df601c523b>
 
