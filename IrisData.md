@@ -44,7 +44,7 @@ Exploration data
     g <- g + geom_point() 
     g
 
-![](IrisData_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://github.com/xetaro/Course-Project-Shiny-Application-and-Reproducible-Pitch/blob/master/Iris_Plot1.png)
 
     sub <- c(sample(1:50, 25), sample(51:100, 25), sample(101:150, 25))
     fit <- rpart(Species ~ ., data = iris, subset = sub)
